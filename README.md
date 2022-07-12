@@ -28,4 +28,4 @@ The three datasets gathered were assessed for quality issues which deal with the
 ### Cleaning, Merging and Storing Data
 After cleaning, the datasets were merged and then stored as a separate file for EDA and Data Visualization.
 
-# We_Rate_Dogs_Tweets_Analysis
+
